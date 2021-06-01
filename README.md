@@ -5,7 +5,9 @@
 On your phones please install the following:
 
 **Android**: [NativeScript Playground](https://play.google.com/store/apps/details?id=org.nativescript.play&hl=en_US&gl=US) and [NativeScript Preview](https://play.google.com/store/apps/details?id=org.nativescript.preview&hl=en_US&gl=US)
+
 **iOS**: [NativeScript Playground](https://apps.apple.com/us/app/nativescript-playground/id1263543946) and [NativeScript Preview](https://apps.apple.com/us/app/nativescript-preview/id1264484702)
+
 
 ### Windows
 Please follow the steps mentioned [here](https://docs.nativescript.org/environment-setup.html#windows-android)
